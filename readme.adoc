@@ -1,0 +1,5 @@
+= Json Serial
+
+Provides a set of interfaces for Kotlin defining types that can be serialized,
+deserialized, and/or populated from Jackson `JsonNode` values.
+
